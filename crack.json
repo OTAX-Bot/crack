@@ -1503,10 +1503,6 @@
     "owner_id": 8281312271
   },
   {
-    "token": "7379902211:AAFn29vIAHGHgY8EyhyImnflPl7NC7y4Yb8",
-    "owner_id": 7634957076
-  },
-  {
     "token": "8400392219:AAFEskOvawehBuZGsntrAHOML5Fzlj6Oq8g",
     "owner_id": 8050240403
   },
@@ -1533,5 +1529,9 @@
   {
     "token": "8274592704:AAF3AnUQk9NkS81gJfaWIXsPkfcLeX_plmQ",
     "owner_id": 8052272654
+  },
+  {
+    "token": "8069774190:AAFdCE2bKRrlykh9g-8TjGjbSTuLu9nxsb0",
+    "owner_id": 8459042587
   }
 ]
